@@ -1,12 +1,12 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company: Boston University
+// Engineer: Marybel and Victoria 
 // 
 // Create Date: 04/26/2022 07:59:12 PM
 // Design Name: 
 // Module Name: top_mod
-// Project Name: 
+// Project Name: ALU calculator
 // Target Devices: 
 // Tool Versions: 
 // Description: 
